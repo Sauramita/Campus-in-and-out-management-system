@@ -6,15 +6,15 @@ This software is a c++ based program which manages who is allowed to enter into 
 
 Description
   user cases:
-    ADD ENTRY
-    ADD EXIT
-    UPDATE DATABASE
-    ENTER
-    LOGIN
-    Logout
-    View Entries
-    Add User 
-    Remove User
+    ADD ENTRY,
+    ADD EXIT,
+    UPDATE DATABASE,
+    ENTER,
+    LOGIN,
+    Logout,
+    View Entries,
+    Add User, 
+    Remove User,
     Change User Password
 
 Installation
